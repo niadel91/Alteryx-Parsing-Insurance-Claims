@@ -1,4 +1,4 @@
-# Alteryx-Parsing-Insurance-Claims
+# Parsing Insurance Claims using Alteryx Workflow
 
 The Input Data is a claims experience record for a group health insurance policy for 3 underwriting years.
 <br>
